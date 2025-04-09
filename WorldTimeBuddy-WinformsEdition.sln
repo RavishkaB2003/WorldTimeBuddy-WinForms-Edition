@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldTimeBuddy-WinformsEdition", "WorldTimeBuddy-WinformsEdition\WorldTimeBuddy-WinformsEdition.csproj", "{9C130C8A-31A3-4BE1-9928-85B549CEE625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C130C8A-31A3-4BE1-9928-85B549CEE625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C130C8A-31A3-4BE1-9928-85B549CEE625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C130C8A-31A3-4BE1-9928-85B549CEE625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C130C8A-31A3-4BE1-9928-85B549CEE625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4655D6CA-702B-4D84-BBB7-1F6AEF4F0787}
+	EndGlobalSection
+EndGlobal
